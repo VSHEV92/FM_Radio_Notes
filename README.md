@@ -4,7 +4,9 @@
 
 #### Содержимое
 
-TODO
+- **modulation**: формирование ЧМ-сигнала прямым и непрямым методами
+- **demodulation**: прием ЧМ-сигнала (Slope Detector, Zero-Crossing, Delay LIne, Phase Differentiation, PLL Detector)
+- **broadcast**: формирование и прием сигналов FM-радио
 
 ------
 
@@ -18,7 +20,7 @@ Matlab LiveScripts и Simulink-модели, демонстрирующие ра
 
 #### Python
 
-TODO
+Jupyter Notebooks, демонстрирующие различные методы формирования и приема  ЧМ-сигналов.
 
 ------
 
